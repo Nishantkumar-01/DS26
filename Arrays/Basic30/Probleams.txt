@@ -1,0 +1,65 @@
+# 📘 30 Problems to Master Arrays (Beginner → Advanced)
+
+## 🔹 Level 1: Basics (1–5)
+
+1. Print all elements of an array
+2. Find maximum and minimum element
+3. Calculate sum and average of array
+4. Count even and odd numbers
+5. Reverse an array
+
+---
+
+## 🔹 Level 2: Searching & Simple Logic (6–10)
+
+6. Linear search
+7. Binary search (sorted array)
+8. Check if array is sorted
+9. Find second largest element
+10. Remove duplicates from sorted array
+
+---
+
+## 🔹 Level 3: Basic Operations (11–15)
+
+11. Left rotate array by 1
+12. Right rotate array by k steps
+13. Move all zeros to end
+14. Merge two sorted arrays
+15. Find missing number (1 to n)
+
+---
+
+## 🔹 Level 4: Intermediate Patterns (16–20)
+
+16. Maximum subarray sum (Kadane’s Algorithm)
+17. Find subarray with given sum
+18. Two sum problem
+19. Prefix sum array
+20. Majority element (Boyer-Moore Voting)
+
+---
+
+## 🔹 Level 5: Advanced Problems (21–25)
+
+21. Stock buy and sell (max profit)
+22. Container with most water
+23. Trapping rain water
+24. Product of array except self
+25. Longest consecutive sequence
+
+---
+
+## 🔹 Level 6: Interview Level (26–30)
+
+26. 3Sum problem
+27. Merge overlapping intervals
+28. Maximum product subarray
+29. Find duplicate number (Floyd cycle method)
+30. Subarray sum equals k
+
+---
+
+## 🚀 Tip
+
+Practice daily and try to solve each problem yourself before looking at solutions.
